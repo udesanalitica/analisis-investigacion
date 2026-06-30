@@ -185,8 +185,3 @@ Para consultas académicas o institucionales relacionadas con este repositorio, 
 **Universidad de Santander – UDES**
 Facultad de Ciencias Naturales y Agropecuarias
 Maestría en Estadística Aplicada
-
-
-**Universidad de Santander – UDES**
-Facultad de Ciencias Naturales y Agropecuarias
-Maestría en Estadística Aplicada
