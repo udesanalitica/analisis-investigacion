@@ -1,4 +1,4 @@
-# 📊 Análisis de la Investigación en la Universidad de Santander a Partir de las Capacidades de los Grupos de Investigación, la Participación Estudiantil en Semilleros y el Desempeño Académico
+# 📊 Análisis de la Investigación en la Universidad de Santander a Partir de las Capacidades de los Grupos de Investigación, la Participación Estudiantil en Semilleros y el Desempeño Académico.
 
 **Estado del proyecto:** En construcción
 **Tipo de recurso:** Repositorio académico de trabajo de grado
@@ -128,7 +128,7 @@ Este repositorio se orienta bajo los principios FAIR para la gestión de datos a
 
 ### Findable — Encontrable
 
-Los archivos se organizan mediante una estructura clara de carpetas, nombres descriptivos y documentación general del proyecto. Se recomienda complementar el repositorio con metadatos, diccionario de datos y, en una etapa posterior, un identificador persistente como DOI mediante Zenodo.
+Los archivos se organizan mediante una estructura clara de carpetas, nombres descriptivos y documentación general del proyecto. Se recomienda complementar el repositorio con metadatos, diccionario de datos y, en una etapa posterior.
 
 ### Accessible — Accesible
 
@@ -154,28 +154,27 @@ Para publicación abierta, se recomienda cargar únicamente versiones anonimizad
 
 ## 📖 Citación sugerida
 
-Si utiliza la información, scripts o resultados derivados de este repositorio, cite de la siguiente manera:
+Si utiliza la información, scripts, bases de datos o resultados derivados de este repositorio, cite de la siguiente manera:
 
 ```bibtex
-@misc{Prada2026,
-  author       = {Prada Luna, Pablo César},
+@misc{PradaLuna2026AnalisisInvestigacionUDES,
+  author       = {Prada Luna, Pablo César and León, Francisco Javier and Pérez Pulido, Miguel Oswaldo and Serrano Novoa, Cesar Augusto},
   title        = {Análisis de la Investigación en la Universidad de Santander a Partir de las Capacidades de los Grupos de Investigación, la Participación Estudiantil en Semilleros y el Desempeño Académico},
   year         = {2026},
   institution  = {Universidad de Santander - UDES},
-  type         = {Trabajo de grado de Maestría en Estadística Aplicada},
-  note         = {Director: Francisco Javier León; Codirectores: Miguel Oswaldo Pérez Pulido y Cesar Augusto Serrano Novoa}
+  type         = {Repositorio académico asociado a trabajo de grado de Maestría en Estadística Aplicada},
+  note         = {Autor del trabajo de grado: Pablo César Prada Luna. Director: Francisco Javier León. Codirectores: Miguel Oswaldo Pérez Pulido y Cesar Augusto Serrano Novoa},
+  url          = {https://github.com/udesanalitica/analisis-investigacion}
 }
 ```
 
-Cuando el repositorio cuente con DOI, se recomienda actualizar esta sección con la referencia formal generada por Zenodo.
+Cuando el repositorio cuente con DOI, será actualizado.
 
 ---
 
 ## 📜 Licencia
 
-Se recomienda definir una licencia de uso para este repositorio. En caso de publicación abierta, puede considerarse la licencia **Creative Commons Attribution 4.0 International — CC BY 4.0**, que permite reutilizar, adaptar y distribuir el material con la debida atribución.
-
-Si el repositorio contiene información institucional sensible, se recomienda mantenerlo privado y definir condiciones internas de uso.
+**Creative Commons Attribution 4.0 International — CC BY 4.0**, se permite reutilizar, adaptar y distribuir el material con la debida atribución.
 
 ---
 
@@ -186,7 +185,6 @@ Para consultas académicas o institucionales relacionadas con este repositorio, 
 **Universidad de Santander – UDES**
 Facultad de Ciencias Naturales y Agropecuarias
 Maestría en Estadística Aplicada
-Coordinación de Analítica Académica
 
 
 **Universidad de Santander – UDES**
